@@ -9,13 +9,13 @@
 
 
 ## General Information
-> Building a multiple linear regression model for the prediction of demand for shared bikes.
+Building a multiple linear regression model for the prediction of demand for shared bikes.
 
 ## Background
-> A bike-sharing system provides access to bicycles for shared use to individuals for a short duration. These systems typically feature docks where users can borrow bikes after inputting payment details, with the bikes being returned to any dock within the same network.
+A bike-sharing system provides access to bicycles for shared use to individuals for a short duration. These systems typically feature docks where users can borrow bikes after inputting payment details, with the bikes being returned to any dock within the same network.
 
 ## Trying to achieve
-> The company aims to identify:
+The company aims to identify:
   - Significant variables that influence the demand for shared bikes.
   - The effectiveness of these variables in explaining variations in bike demand.
 
