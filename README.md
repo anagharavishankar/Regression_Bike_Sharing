@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Package Versions Used](#technologies-used)
+* [Package Versions Used](#package-versions-used)
 * [Conclusions](#conclusions)
 
 
