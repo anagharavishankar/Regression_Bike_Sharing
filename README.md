@@ -25,6 +25,7 @@ The dataset utilized is a CSV-formatted bike sharing dataset (day.csv), with eac
 
 ## Conclusions
 Significant variables to predict the demand for shared bikes are:
+
 i. Top 3 variables: 
 
     > temp - The coefficient value of '0.5499' suggests that for every one-unit increase in the temperature variable, the number of bike hires is expected to increase by 0.5499 units.
